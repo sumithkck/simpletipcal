@@ -7,6 +7,11 @@ html {
     font-style: bold;
 }
 
+.btn-selected {
+    background-color: #5fbdb0;
+    color: #305f72;
+}
+
 .container-main {
     background-color: #f6f6f6;
     width: 55%;
