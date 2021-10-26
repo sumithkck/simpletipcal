@@ -138,4 +138,6 @@ document.querySelector("#reset").addEventListener("click", function() {
 
     document.querySelector("#tip-display-01").innerHTML = "0.00";
     document.querySelector("#tip-display-02").innerHTML = "0.00";
+    document.getElementById('bill-amount').value = 0.00;
+    document.getElementById('num-of-people').value = 1;
 });
