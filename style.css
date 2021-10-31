@@ -105,5 +105,6 @@ button:hover {
     .container-main {
         grid-template-rows: repeat(2, 1fr);
         grid-template-columns: auto;
+        width: 90%;
     }
 }
